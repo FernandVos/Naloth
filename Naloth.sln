@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloth", "Naloth\Naloth.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloth.Tests", "Naloth.Tests\Naloth.Tests.csproj", "{3808F22F-55CA-48C7-AC6F-85BEE3B53523}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloth.DAL", "Naloth.DAL\Naloth.DAL.csproj", "{280F4E0A-80A9-4F06-B500-8DFCBA5AA79A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3808F22F-55CA-48C7-AC6F-85BEE3B53523}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3808F22F-55CA-48C7-AC6F-85BEE3B53523}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3808F22F-55CA-48C7-AC6F-85BEE3B53523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280F4E0A-80A9-4F06-B500-8DFCBA5AA79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280F4E0A-80A9-4F06-B500-8DFCBA5AA79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280F4E0A-80A9-4F06-B500-8DFCBA5AA79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280F4E0A-80A9-4F06-B500-8DFCBA5AA79A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
